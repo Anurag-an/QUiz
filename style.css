@@ -1,0 +1,66 @@
+body {
+    background-image: url("background.jpg");
+     background-repeat: no-repeat;
+  background-size: cover;
+}
+ 
+.fun {
+   
+    background-color: transparent;
+    padding: 10px 50px 50px 50px;
+    border: 2px solid white;
+    opacity: 0.8;
+    
+}
+ 
+.fun h1 {
+    font-family: "sans-serif";
+    background-color:  #217C7E;
+    font-size: 60px;
+    text-align: center;
+    color: whitesmoke;
+    padding: 2px 0px;
+    
+}
+ 
+ .fun #question {
+    font-family: "monospace";
+    font-size: 30px;
+    color:White;
+}
+
+#score {
+    color: skyblue;
+    text-align: center;
+    font-size: 30px;
+}
+ 
+
+ 
+.buttons {
+    margin-top: 30px;
+}
+ 
+#btn0, #btn1, #btn2, #btn3 {
+    background-color:  #217C7E;
+    width: 250px;
+    font-size: 20px;
+    color: #fff;  
+    margin: 12px 40px 10px 0px;
+    padding: 10px 10px;
+}
+ 
+#btn0:hover, #btn1:hover, #btn2:hover, #btn3:hover {
+    cursor: pointer;
+    
+}
+ 
+#btn0:focus, #btn1:focus, #btn2:focus, #btn3:focus {
+    outline: 0;
+}
+ 
+.anurag1 {
+    color: white;
+    font-size: 18px;
+}
+
